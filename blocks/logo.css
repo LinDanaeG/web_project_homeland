@@ -1,0 +1,9 @@
+.header__link {
+  margin: 20px auto 0;
+}
+
+.header__logo {
+  max-width: 200px;
+  height: 52px;
+  width: 100%;
+}
